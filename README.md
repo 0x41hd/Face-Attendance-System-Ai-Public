@@ -2,7 +2,6 @@
 
 A desktop attendance system that uses face recognition to log employee entries and exits, with guest enrollment and security review tools.
 
-<img width="822" height="591" alt="Screenshot 2026-06-30 171029" src="https://github.com/user-attachments/assets/5b717c28-1042-436a-9d78-50db3dde7635" />
 
 ## Download
 
@@ -23,6 +22,7 @@ Download the latest release from the Releases page.
 1. Download `FRAS_Setup.exe` from Releases.
 2. Install the app.
 3. Open the app.
+<img width="822" height="591" alt="Screenshot 2026-06-30 171029" src="https://github.com/user-attachments/assets/5b717c28-1042-436a-9d78-50db3dde7635" />
 4. Use the Guest section to upload your own photos and test the system.
 <img width="777" height="565" alt="Screenshot 2026-06-30 203217" src="https://github.com/user-attachments/assets/98dbd7ad-a7af-4712-bf1e-9553883f2cb0" />
 5. Open entry camera and across the line
