@@ -1,3 +1,4 @@
+<img width="822" height="591" alt="Screenshot 2026-06-30 171029" src="https://github.com/user-attachments/assets/5b717c28-1042-436a-9d78-50db3dde7635" />
 # Face Recognition Attendance System (FRAS)
 
 A desktop attendance system that uses face recognition to log employee entries and exits, with guest enrollment and security review tools.
