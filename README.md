@@ -24,6 +24,13 @@ Download the latest release from the Releases page.
 2. Install the app.
 3. Open the app.
 4. Use the Guest section to upload your own photos and test the system.
+<img width="777" height="565" alt="Screenshot 2026-06-30 203217" src="https://github.com/user-attachments/assets/98dbd7ad-a7af-4712-bf1e-9553883f2cb0" />
+5. Open entry camera and across the line
+<img width="1053" height="626" alt="Screenshot 2026-06-30 202911" src="https://github.com/user-attachments/assets/49da8327-ec20-4b25-8cd6-5bc5f20d2083" />
+6. Now you can see entry time in Attendance list
+<img width="859" height="588" alt="Screenshot 2026-06-30 203007" src="https://github.com/user-attachments/assets/9a967445-bcdc-4ce1-9fe0-462777725ed1" />
+
+ 
 
 ## Notes
 
