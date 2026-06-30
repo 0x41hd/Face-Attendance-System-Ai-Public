@@ -20,9 +20,8 @@ Download the latest release from the Releases page.
 
 1. Download `FRAS_Setup.exe` from Releases.
 2. Install the app.
-3. Download `yolov8n-face.pt` from Releases and place it in `models/`.
-4. Open the app.
-5. Use the Guest section to upload your own photos and test the system.
+3. Open the app.
+4. Use the Guest section to upload your own photos and test the system.
 
 ## Notes
 
