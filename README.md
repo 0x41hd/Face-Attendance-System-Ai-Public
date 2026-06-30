@@ -23,7 +23,8 @@ Download the latest release from the Releases page.
 2. Install the app.
 3. Open the app.
 
-<img width="822" height="591" alt="Screenshot 2026-06-30 171029" src="https://github.com/user-attachments/assets/5b717c28-1042-436a-9d78-50db3dde7635" />
+<img width="816" height="591" alt="Screenshot 2026-06-30 171029" src="https://github.com/user-attachments/assets/1997c269-4265-4416-8426-a052d47210de" />
+
 
 5. Use the Guest section to upload your own photos and test the system.
    
@@ -35,7 +36,7 @@ Download the latest release from the Releases page.
 
 9. Now you can see entry time in Attendance list
     
-<img width="859" height="588" alt="Screenshot 2026-06-30 203007" src="https://github.com/user-attachments/assets/9a967445-bcdc-4ce1-9fe0-462777725ed1" />
+<img width="844" height="588" alt="Screenshot 2026-06-30 203007" src="https://github.com/user-attachments/assets/556fefd4-930a-418a-ac77-c11d678b9726" />
 
  
 
